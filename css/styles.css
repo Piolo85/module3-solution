@@ -21,6 +21,9 @@
 	border: solid 3px #FF4500;
 	right:20px;
 }
+#button:hover{
+	background-color: yellow;
+}
 #bar{
 	background-color:#FF4500;
 }
@@ -117,6 +120,9 @@
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
 	background-color:#FF7F50;
+}
+.navbar-nav{
+	font-size: 1.10em;
 }
 }
 
